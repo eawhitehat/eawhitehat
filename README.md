@@ -79,4 +79,4 @@ Access Control & Privilege Escalation
 
 ---
 
-📫 **Contact** — [LinkedIn](https://www.linkedin.com/in/eren-music/)
+📫 **Contact** — [LinkedIn](https://www.linkedin.com/in/eawhitehat/)
