@@ -49,7 +49,9 @@ Access Control & Privilege Escalation
 
 ### 📦 Projet
 
-[![evm-security-toolkit](https://github-readme-stats.vercel.app/api/pin/?username=eawhitehat&repo=evm-security-toolkit&theme=dark&hide_border=true)](https://github.com/eawhitehat/evm-security-toolkit)
+| Repo | Description | Stack |
+|------|-------------|-------|
+| [**evm-security-toolkit**](https://github.com/eawhitehat/evm-security-toolkit) | Détection automatisée de vulnérabilités EVM — bytecode, reentrancy, ERC-4626, EIP-1153 | Python / Web3.py |
 
 ### 🌐 Projets déployés
 
@@ -61,11 +63,6 @@ Access Control & Privilege Escalation
 | [**IT Pulse**](https://itpulse.vercel.app/) | Dashboard IT temps réel pour le monitoring d'infrastructure |
 
 ### 📊 Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=eawhitehat&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eawhitehat&layout=compact&theme=dark&hide_border=true" height="165" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eawhitehat&theme=dark&hide_border=true&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" />
