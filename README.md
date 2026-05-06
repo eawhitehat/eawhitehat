@@ -15,7 +15,6 @@ Je casse des smart contracts pour les rendre plus sûrs.
 ### 🔍 Ce que je fais
 
 - Audit de sécurité de smart contracts (Solidity / EVM)
-- Bug bounty sur les protocoles DeFi
 - Développement d'outils d'analyse automatisée
 - Recherche de vulnérabilités critiques (perte de fonds, blocage de protocole)
 
@@ -67,13 +66,3 @@ Access Control & Privilege Escalation
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eawhitehat&theme=dark&hide_border=true&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" />
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eawhitehat/eawhitehat/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eawhitehat/eawhitehat/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/eawhitehat/eawhitehat/output/github-snake-dark.svg" />
-</picture>
-
----
-
-📫 **Contact** — [LinkedIn](https://www.linkedin.com/in/eawhitehat/)
