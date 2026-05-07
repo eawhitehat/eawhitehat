@@ -10,15 +10,15 @@
 
 ---
 
-Je casse des smart contracts pour les rendre plus sûrs.
+I break smart contracts to make them safer.
 
-### 🔍 Ce que je fais
+### 🔍 What I do
 
-- Audit de sécurité de smart contracts (Solidity / EVM)
-- Développement d'outils d'analyse automatisée
-- Recherche de vulnérabilités critiques (perte de fonds, blocage de protocole)
+- Smart contract security auditing (Solidity / EVM)
+- Development of automated analysis tools
+- Critical vulnerability research (fund loss, protocol lockdown)
 
-### 🎯 Domaines d'expertise
+### 🎯 Areas of expertise
 
 ```
 Reentrancy (cross-function, cross-contract, read-only)
@@ -46,20 +46,20 @@ Access Control & Privilege Escalation
 ![Web3.py](https://img.shields.io/badge/Web3.py-F16822?style=flat&logo=ethereum&logoColor=white)
 ![EVM](https://img.shields.io/badge/EVM-3C3C3D?style=flat&logo=ethereum&logoColor=white)
 
-### 📦 Projet
+### 📦 Project
 
 | Repo | Description | Stack |
 |------|-------------|-------|
-| [**evm-security-toolkit**](https://github.com/eawhitehat/evm-security-toolkit) | Détection automatisée de vulnérabilités EVM — bytecode, reentrancy, ERC-4626, EIP-1153 | Python / Web3.py |
+| [**evm-security-toolkit**](https://github.com/eawhitehat/evm-security-toolkit) | Automated EVM vulnerability detection — bytecode, reentrancy, ERC-4626, EIP-1153 | Python / Web3.py |
 
-### 🌐 Projets déployés
+### 🌐 Deployed Projects
 
-| Projet | Description |
-|--------|-------------|
-| [**CVE Exploit Tracker**](https://cve-exploit-tracker.vercel.app/) | Veille CVE & exploits en temps réel pour les professionnels IT |
-| [**NetScan AI**](https://netscanai-7ia7.vercel.app/) | Extracteur de schémas réseau assisté par IA |
-| [**ReconMap**](https://reconmap.vercel.app/) | Reconnaissance de surface d'attaque — recon passive automatisée |
-| [**IT Pulse**](https://itpulse.vercel.app/) | Dashboard IT temps réel pour le monitoring d'infrastructure |
+| Project | Description |
+|---------|-------------|
+| [**CVE Exploit Tracker**](https://cve-exploit-tracker.vercel.app/) | Real-time CVE & exploit monitoring for IT security professionals |
+| [**NetScan AI**](https://netscanai-7ia7.vercel.app/) | AI-assisted network schema extractor |
+| [**ReconMap**](https://reconmap.vercel.app/) | Attack surface reconnaissance — automated passive recon |
+| [**IT Pulse**](https://itpulse.vercel.app/) | Real-time IT dashboard for infrastructure monitoring |
 
 ### 📊 Stats
 
