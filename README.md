@@ -51,6 +51,7 @@ Access Control & Privilege Escalation
 | Repo | Description | Stack |
 |------|-------------|-------|
 | [**evm-security-toolkit**](https://github.com/eawhitehat/evm-security-toolkit) | Automated EVM vulnerability detection — bytecode, reentrancy, ERC-4626, EIP-1153 | Python / Web3.py |
+| [**shadowforge-council**](https://github.com/eawhitehat/shadowforge-council) | Multi-Agent AI Smart Contract Auditor — Etherscan V2, Immunefi Export, War Room | Python |
 | [**neuroscan**](https://github.com/eawhitehat/neuroscan) | Interactive neural graph scanner for smart contract vulnerabilities (Multi-chain) | Vanilla JS / D3.js |
 
 ### 🌐 Deployed Projects
