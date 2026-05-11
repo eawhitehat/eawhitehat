@@ -51,11 +51,13 @@ Access Control & Privilege Escalation
 | Repo | Description | Stack |
 |------|-------------|-------|
 | [**evm-security-toolkit**](https://github.com/eawhitehat/evm-security-toolkit) | Automated EVM vulnerability detection — bytecode, reentrancy, ERC-4626, EIP-1153 | Python / Web3.py |
+| [**neuroscan**](https://github.com/eawhitehat/neuroscan) | Interactive neural graph scanner for smart contract vulnerabilities (Multi-chain) | Vanilla JS / D3.js |
 
 ### 🌐 Deployed Projects
 
 | Project | Description |
 |---------|-------------|
+| [**NeuroScan**](https://neuroscan-eta.vercel.app/) | Live smart contract visualizer and security scanner (Real-time EVM analysis) |
 | [**CVE Exploit Tracker**](https://cve-exploit-tracker.vercel.app/) | Real-time CVE & exploit monitoring for IT security professionals |
 | [**NetScan AI**](https://netscanai-7ia7.vercel.app/) | AI-assisted network schema extractor |
 | [**ReconMap**](https://reconmap.vercel.app/) | Attack surface reconnaissance — automated passive recon |
