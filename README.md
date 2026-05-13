@@ -4,33 +4,6 @@
 
 ---
 
-I break smart contracts to make them safer.
-
-### 🔍 What I do
-
-- Smart contract security auditing (Solidity / EVM)
-- Development of automated analysis tools
-- Critical vulnerability research (fund loss, protocol lockdown)
-
-### 🎯 Areas of expertise
-
-```
-Reentrancy (cross-function, cross-contract, read-only)
-ERC-4626 Vault Inflation & Share Manipulation
-EIP-1153 Transient Storage (post-Cancun)
-Proxy Vulnerabilities (UUPS, Transparent, Beacon)
-Oracle Manipulation & Flash Loan Vectors
-Access Control & Privilege Escalation
-```
-
-### 🔫 Currently hunting on
-
-```diff
-+ Active Bug Bounty Targets — DeFi Protocols
-+ Focus: Reentrancy, Vault Manipulation, Proxy Exploits
-! Tools: EVM Security Toolkit + ShadowForge Council
-```
-
 ### ⚡ Stack
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
@@ -39,14 +12,6 @@ Access Control & Privilege Escalation
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat&logo=ethereum&logoColor=black)
 ![Web3.py](https://img.shields.io/badge/Web3.py-F16822?style=flat&logo=ethereum&logoColor=white)
 ![EVM](https://img.shields.io/badge/EVM-3C3C3D?style=flat&logo=ethereum&logoColor=white)
-
-### 📦 Project
-
-| Repo | Description | Stack |
-|------|-------------|-------|
-| [**evm-security-toolkit**](https://github.com/eawhitehat/evm-security-toolkit) | Automated EVM vulnerability detection — bytecode, reentrancy, ERC-4626, EIP-1153 | Python / Web3.py |
-| [**shadowforge-council**](https://github.com/eawhitehat/shadowforge-council) | Multi-Agent AI Smart Contract Auditor — Etherscan V2, Immunefi Export, War Room | Python |
-| [**neuroscan**](https://github.com/eawhitehat/neuroscan) | Interactive neural graph scanner for smart contract vulnerabilities (Multi-chain) | Vanilla JS / D3.js |
 
 ### 🌐 Deployed Projects
 
