@@ -1,10 +1,4 @@
 <p align="center">
-  <a href="https://github.com/eawhitehat">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&lines=Web3+Security+Researcher;Bug+Bounty+Hunter;Smart+Contract+Auditor;EVM+Exploit+Developer" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=eawhitehat&style=flat-square&color=00ff41&label=Profile+Views" alt="Profile views" />
 </p>
 
