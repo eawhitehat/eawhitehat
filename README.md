@@ -8,6 +8,7 @@
 
 | Project | Description |
 |---------|-------------|
+| [**RedAgent**](https://github.com/eawhitehat/RedAgent) | RedAgent is an open-source autonomous red team agent that performs full reconnaissance, port scanning, technology fingerprinting, CVE matching, and AI-powered attack chain analysis — all in a single command |
 | [**ShadowForge Council**](https://github.com/eawhitehat/shadowforge-council) | Multi-agent AI system for automated smart contract security auditing |
 | [**NeuroScan**](https://neuroscan-eta.vercel.app/) | Live smart contract visualizer and security scanner (Real-time EVM analysis) |
 | [**CVE Exploit Tracker**](https://cve-exploit-tracker.vercel.app/) | Real-time CVE & exploit monitoring for IT security professionals |
