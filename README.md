@@ -17,6 +17,7 @@
 
 | Project | Description |
 |---------|-------------|
+| [**ShadowForge Council**]([https://neuroscan-eta.vercel.app/](https://github.com/eawhitehat/shadowforge-council)) | Multi-agent AI system for automated smart contract security auditing |
 | [**NeuroScan**](https://neuroscan-eta.vercel.app/) | Live smart contract visualizer and security scanner (Real-time EVM analysis) |
 | [**CVE Exploit Tracker**](https://cve-exploit-tracker.vercel.app/) | Real-time CVE & exploit monitoring for IT security professionals |
 | [**NetScan AI**](https://netscanai-7ia7.vercel.app/) | AI-assisted network schema extractor |
