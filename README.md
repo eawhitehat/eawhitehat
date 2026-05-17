@@ -15,6 +15,7 @@
 | [**NetScan AI**](https://netscanai-7ia7.vercel.app/) | AI-assisted network schema extractor |
 | [**ReconMap**](https://reconmap.vercel.app/) | Attack surface reconnaissance — automated passive recon |
 | [**IT Pulse**](https://itpulse.vercel.app/) | Real-time IT dashboard for infrastructure monitoring |
+| [**GhostRecon**](https://github.com/eawhitehat/GhostRecon) | Passive OSINT recon aggregator — subdomains, tech fingerprinting, GitHub dorking, Shodan CVEs & risk scoring in one command |
 
 ### 📊 Stats
 
