@@ -16,6 +16,7 @@
 | [**ReconMap**](https://reconmap.vercel.app/) | Attack surface reconnaissance — automated passive recon |
 | [**IT Pulse**](https://itpulse.vercel.app/) | Real-time IT dashboard for infrastructure monitoring |
 | [**GhostRecon**](https://github.com/eawhitehat/GhostRecon) | Passive OSINT recon aggregator — subdomains, tech fingerprinting, GitHub dorking, Shodan CVEs & risk scoring in one command |
+| [**ShadowRecon**](https://github.com/eawhitehat/ShadowRecon) | Real-time Attack Surface Management dashboard — DNS, ports, SSL, CVE mapping with active validation & CISA KEV feed |
 
 ### 📊 Stats
 
